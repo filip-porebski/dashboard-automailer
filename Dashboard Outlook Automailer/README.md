@@ -1,4 +1,4 @@
-#Dashboard Outlook Automailer
+# Dashboard Outlook Automailer
 
 ![alt text](https://i.imgur.com/FHrBnqP.png)
 
